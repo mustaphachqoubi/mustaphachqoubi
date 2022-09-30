@@ -7,11 +7,7 @@
 
 - 👯 I’m looking to collaborate on **jsx projects**
 
-- 🤝 I’m looking for help with **soft skills**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mustaphachqoubi](https://github.com/mustaphachqoubi)
-
-- 📝 I regularly write articles on my experience
 
 - 💬 Ask me about **react, javascript, tailwindcss**
 
