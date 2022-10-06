@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustapha</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [Carpetit](carpetit.store)
+- 🔭 I’m currently working on [Carpetit](https://carpetit.vercel.app/)
 
 - 🌱 I’m currently learning **next.js, typescript and more**
 
