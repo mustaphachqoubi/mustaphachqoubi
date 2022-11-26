@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Carpetit](https://carpetit.vercel.app/)
 
-- ⚙️ I use daily: .jsx, .html, .css, .svg, .psd, .ai
+- ⚙️ I use daily: **.jsx, .js, .env, .config.js, .json, .css
 
 - 🌱 I’m currently learning **next.js, typescript and more**
 
