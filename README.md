@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mustapha</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [Carpetit](https://carpetit.vercel.app/)
+- I write code since `2017` , and i started my career as a frontend developer in `2019`
+
+- My last work experiences was in `AIOX-Labs` and `Deepecho`, as a junior frontend developer.
+
+- 🔭 I’m currently working on a project called [Carpetit](https://carpetit.vercel.app/)
 
 - ⚙️ I use daily: `.jsx`, `.js`, `.env`, `.config.js`, `.json`, `.css`
 
-- 🌱 I’m currently learning **next.js, typescript and more**
+- 🌱 I’m currently learning **next.js, typescript, D3.js, webpack, three.js and more**
 
-- 👯 I’m looking to collaborate on **jsx projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mustaphachqoubi](https://github.com/mustaphachqoubi)
+- 👨‍💻 All of my projects are available here at [https://github.com/mustaphachqoubi](https://github.com/mustaphachqoubi)
 
 - 💬 Ask me about **react, javascript, tailwindcss**
 
-- 📫 How to reach me **mustaphachqoubi88@gmail.com**
+- 📫 You can reach me on **mustaphachqoubi88@gmail.com** or **My Linkedin below**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mustapha-chqoubi/](https://www.linkedin.com/in/mustapha-chqoubi/)
 
