@@ -14,9 +14,7 @@
 
 - 🌱 I’m currently learning **next.js, typescript, D3.js, webpack, three.js and more**
 
-- 👨‍💻 All of my projects are available here at [https://github.com/mustaphachqoubi](https://github.com/mustaphachqoubi)
-
-- 💬 Ask me about **react, javascript, tailwindcss**
+- 💬 Ask me about **react, javascript, tailwindcss, redux**
 
 - 📫 You can reach me on **mustaphachqoubi88@gmail.com** or **My Linkedin below**
 
