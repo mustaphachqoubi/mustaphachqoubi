@@ -3,7 +3,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Mustapha</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
 
 - I write code since `2017` , and i started my career as a frontend developer in `2019`
 
