@@ -24,7 +24,9 @@
 
 <h1></h1>
 <p align="center">
-<a href="https://twitter.com/mustaphachqoub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustaphachqoub1" height="30" width="40" /></a>
+<a href="https://twitter.com/mustaphachqoub1" target="blank">
+  <i class="fa-brands fa-twitter" height="30" width="40"></i>
+  </a>
 <a href="https://linkedin.com/in/mustapha-chqoubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustapha-chqoubi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13210918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13210918" height="30" width="40" /></a>
 <a href="https://fb.com/mustapha chqoubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustapha chqoubi" height="30" width="40" /></a>
