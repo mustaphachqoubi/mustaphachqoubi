@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Mustapha</h1>
 
-- I write code since `2017` , and i started my career as a frontend developer in `2019`
+- I write code since `2017` => i started my career as a frontend developer in `2019`
 
-- My last work experiences was in `AIOX-Labs` and `Deepecho`, as a junior frontend developer.
+- My last work experiences was with `AIOX-Labs` and `Deepecho`, as a junior frontend developer.
 
 - 🔭 I’m currently working on a project called [Carpetit](https://carpetit.vercel.app/)
 
